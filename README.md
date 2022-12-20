@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋
+🔭 I'm Le Anh (face13ss) Dzung
+🤔 I'm a current BE developer with Java
+💬 Email: anhdungxd21@gmail.com
 
 <!--
 **face13ss/face13ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
