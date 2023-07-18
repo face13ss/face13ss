@@ -1,8 +1,9 @@
 Hi there 👋
 
-🔭 I'm Le Anh (face13ss) Dzung
+😄 I'm Le Anh (face13ss) Dzung
 
-🤔 I'm a current BE developer with Java
+🤔 I'm a current BE developer with Java, Javascript and DevOps
+🔭 I’m currently working on NextPay JSC
 
 💬 Email: anhdungxd21@gmail.com
 
